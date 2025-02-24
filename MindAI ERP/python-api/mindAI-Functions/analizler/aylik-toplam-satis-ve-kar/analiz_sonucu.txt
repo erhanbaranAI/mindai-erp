@@ -1,0 +1,7 @@
+Aylik Toplam Satis ve Kar Analizi
+------------------------------------
+En yuksek satis yapilan ay: 2019-01
+En dusuk satis yapilan ay: 2010-01
+Toplam Satis: $28,898,171.35
+Toplam Kar: $5,547,411.88
+Grafik Kaydedildi: C:\Users\Hakan\Desktop\mindAI-Functions\analizler\aylik-toplam-satis-ve-kar\satis_ve_kar_grafik.png

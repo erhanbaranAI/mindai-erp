@@ -1,0 +1,26 @@
+Urun Bazli Satis ve Kar Analizi
+------------------------------------
+
+En Cok Satilan Urunler (Adet Bazinda)
+1. Urun Kodu: P474155 - Toplam Satis: 23806.0 adet
+2. Urun Kodu: P836605 - Toplam Satis: 15173.0 adet
+3. Urun Kodu: P405949 - Toplam Satis: 9052.0 adet
+4. Urun Kodu: P696952 - Toplam Satis: 6331.0 adet
+5. Urun Kodu: P533772 - Toplam Satis: 5639.0 adet
+6. Urun Kodu: P956668 - Toplam Satis: 4618.0 adet
+7. Urun Kodu: P344743 - Toplam Satis: 3838.0 adet
+8. Urun Kodu: P789160 - Toplam Satis: 3746.0 adet
+9. Urun Kodu: P374166 - Toplam Satis: 3528.0 adet
+10. Urun Kodu: P765168 - Toplam Satis: 3255.0 adet
+
+En Fazla Kar Getiren Urunler
+1. Urun Kodu: P489329 - Toplam Kar: $125,363.70
+2. Urun Kodu: P253339 - Toplam Kar: $79,892.09
+3. Urun Kodu: P500472 - Toplam Kar: $76,022.83
+4. Urun Kodu: P659759 - Toplam Kar: $67,748.39
+5. Urun Kodu: P493724 - Toplam Kar: $45,956.28
+6. Urun Kodu: P581367 - Toplam Kar: $41,414.71
+7. Urun Kodu: P770730 - Toplam Kar: $41,341.71
+8. Urun Kodu: P142677 - Toplam Kar: $40,537.99
+9. Urun Kodu: P821017 - Toplam Kar: $40,149.13
+10. Urun Kodu: P928709 - Toplam Kar: $39,563.57

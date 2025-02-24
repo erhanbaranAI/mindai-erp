@@ -1,0 +1,213 @@
+Kar Tahmini - Bayesian Ridge Regression Modeli
+--------------------------------------------
+R2 Skoru: 1.0000
+MAE (Ortalama Mutlak Hata): 0.00
+RMSE (Karekok Ortalama Kare Hata): 0.00
+
+Model Katsay�lar�:
+qty: 0.0000
+sell_price: 0.0000
+total_sale_value: 2314.2456
+disc: -0.0000
+cost_price: -0.0000
+total_cost_value: -1990.2512
+inv_date_1/17/2019: 0.0000
+inv_date_1/8/2012: -0.0000
+inv_date_10/1/2019: 0.0000
+inv_date_10/24/2018: -0.0000
+inv_date_10/29/2015: -0.0000
+inv_date_10/30/2015: 0.0000
+inv_date_10/30/2018: 0.0000
+inv_date_10/8/2018: -0.0000
+inv_date_11/16/2018: -0.0000
+inv_date_11/18/2019: 0.0000
+inv_date_11/22/2018: -0.0000
+inv_date_11/27/2018: 0.0000
+inv_date_11/29/2018: -0.0000
+inv_date_11/29/2019: -0.0000
+inv_date_11/4/2016: -0.0000
+inv_date_12/15/2015: -0.0000
+inv_date_12/20/2018: 0.0000
+inv_date_12/3/2019: 0.0000
+inv_date_12/9/2018: 0.0000
+inv_date_2/15/2019: 0.0000
+inv_date_3/11/2017: 0.0000
+inv_date_3/12/2018: -0.0000
+inv_date_3/20/2019: -0.0000
+inv_date_3/25/2019: 0.0000
+inv_date_3/26/2019: 0.0000
+inv_date_4/3/2016: -0.0000
+inv_date_4/7/2019: -0.0000
+inv_date_5/15/2018: 0.0000
+inv_date_5/2/2019: 0.0000
+inv_date_5/24/2018: -0.0000
+inv_date_5/30/2019: 0.0000
+inv_date_6/13/2019: -0.0000
+inv_date_6/18/2019: 0.0000
+inv_date_6/19/2013: 0.0000
+inv_date_6/8/2018: -0.0000
+inv_date_7/18/2018: 0.0000
+inv_date_7/31/2015: -0.0000
+inv_date_7/9/2015: -0.0000
+inv_date_8/19/2015: -0.0000
+inv_date_8/20/2020: 0.0000
+inv_date_8/22/2018: -0.0000
+inv_date_8/26/2016: -0.0000
+inv_date_8/27/2015: 0.0000
+inv_date_8/30/2018: 0.0000
+inv_date_9/12/2015: -0.0000
+inv_date_9/15/2020: -0.0000
+inv_date_9/16/2015: 0.0000
+inv_date_9/18/2018: 0.0000
+inv_date_9/2/2016: 0.0000
+inv_date_Other: 0.0000
+invoice_number_INV7777483: 0.0000
+invoice_number_INV7777525: 0.0000
+invoice_number_INV7777857: 0.0000
+invoice_number_INV7778555: 0.0000
+invoice_number_INV7779432: -0.0000
+invoice_number_INV7779880: -0.0000
+invoice_number_INV7780083: -0.0000
+invoice_number_INV7780099: -0.0000
+invoice_number_INV7780670: -0.0000
+invoice_number_INV7781913: -0.0000
+invoice_number_INV7782437: -0.0000
+invoice_number_INV7782505: 0.0000
+invoice_number_INV7782563: -0.0000
+invoice_number_INV7783526: 0.0000
+invoice_number_INV7783568: -0.0000
+invoice_number_INV7784619: 0.0000
+invoice_number_INV7784697: -0.0000
+invoice_number_INV7784779: 0.0000
+invoice_number_INV7785183: 0.0000
+invoice_number_INV7785230: 0.0000
+invoice_number_INV7785274: 0.0000
+invoice_number_INV7786530: -0.0000
+invoice_number_INV7786543: -0.0000
+invoice_number_INV7786762: -0.0000
+invoice_number_INV7786842: 0.0000
+invoice_number_INV7786937: 0.0000
+invoice_number_INV7787051: -0.0000
+invoice_number_INV7787197: 0.0000
+invoice_number_INV7787198: 0.0000
+invoice_number_INV7787367: -0.0000
+invoice_number_INV7787536: -0.0000
+invoice_number_INV7787656: -0.0000
+invoice_number_INV7787883: 0.0000
+invoice_number_INV7787884: 0.0000
+invoice_number_INV7787993: -0.0000
+invoice_number_INV7788951: -0.0000
+invoice_number_INV7790038: -0.0000
+invoice_number_INV7792107: -0.0000
+invoice_number_INV7795420: 0.0000
+invoice_number_INV7795615: 0.0000
+invoice_number_INV7796880: 0.0000
+invoice_number_INV7797481: 0.0000
+invoice_number_INV7797641: 0.0000
+invoice_number_INV7798264: -0.0000
+invoice_number_INV7798268: -0.0000
+invoice_number_INV7798495: 0.0000
+invoice_number_INV7801075: -0.0000
+invoice_number_INV7805369: -0.0000
+invoice_number_INV7805924: -0.0000
+invoice_number_Other: -0.0000
+account_BLACK HILLS HIRE: -0.0000
+account_BLUE PLANET CONSTRUCTION: -0.0000
+account_CANDID PARTS & SERVICE: -0.0000
+account_CENTRAL ASPECT: -0.0000
+account_CERTIFIED HIRE: -0.0000
+account_COGFACTOR: -0.0000
+account_DEPLOY: -0.0000
+account_DISTICS: -0.0000
+account_DIVIXA: -0.0000
+account_EASY STREET MACHINERY SOLUTIONS: -0.0000
+account_ELEMENTIZE: -0.0000
+account_ELEMERA: -0.0000
+account_EXOPARTS: -0.0000
+account_GFORCE HIRE: -0.0000
+account_GOHIRE: -0.0000
+account_GRANT & ATTRACTORS: -0.0000
+account_HIREHAUS: -0.0000
+account_HIRELINE: -0.0000
+account_HIRESPACE: -0.0000
+account_INSTAGES: -0.0000
+account_KEYTENET: -0.0000
+account_LINKED MACHINES: -0.0000
+account_MAIN ASPECT: -0.0000
+account_MODELICS: -0.0000
+account_MULTICS: -0.0000
+account_NATICS: -0.0000
+account_NORTH SHORE HIRE: -0.0000
+account_OBJECTRIC: -0.0000
+account_Other: -0.0000
+account_PARTICUS: -0.0000
+account_PARTSBASE: -0.0000
+account_PARTSLAB: -0.0000
+account_POLDEN & WRITE: 0.0000
+account_POWERCRUIT: -0.0000
+account_PRINCIPLE MACHINERY: -0.0000
+account_READY RECRUITS: -0.0000
+account_RED SEA HIRE: -0.0000
+account_RENEGADE PTY LTD: -0.0000
+account_RIGFACTORY: 0.0000
+account_SEGMENS: -0.0000
+account_SHADOW CONSTRUCTION: -0.0000
+account_SKITORY: -0.0000
+account_SOUTHLAND: -0.0000
+account_SUBMODIES: -0.0000
+account_SYSNIA: -0.0000
+account_TENPIPES: -0.0000
+account_TPARTS: -0.0000
+account_WHITE HORSE HIRE: -0.0000
+account_WORKHOOK: -0.0000
+account_ZONOLOGY: -0.0000
+part_number_P107912: 0.0000
+part_number_P109015: -0.0000
+part_number_P157670: 0.0000
+part_number_P169578: 0.0000
+part_number_P187536: -0.0000
+part_number_P199129: -0.0000
+part_number_P206343: -0.0000
+part_number_P253339: 0.0000
+part_number_P268200: -0.0000
+part_number_P274150: -0.0000
+part_number_P296143: -0.0000
+part_number_P299934: 0.0000
+part_number_P326712: -0.0000
+part_number_P350339: -0.0000
+part_number_P363720: 0.0000
+part_number_P374166: -0.0000
+part_number_P378270: 0.0000
+part_number_P383581: -0.0000
+part_number_P383812: -0.0000
+part_number_P384305: -0.0000
+part_number_P404282: -0.0000
+part_number_P441561: 0.0000
+part_number_P458249: 0.0000
+part_number_P486165: -0.0000
+part_number_P488198: 0.0000
+part_number_P489329: 0.0000
+part_number_P496406: 0.0000
+part_number_P499388: -0.0000
+part_number_P517396: -0.0000
+part_number_P536652: -0.0000
+part_number_P554918: 0.0000
+part_number_P584705: 0.0000
+part_number_P607504: -0.0000
+part_number_P715622: -0.0000
+part_number_P749767: -0.0000
+part_number_P756362: -0.0000
+part_number_P759015: 0.0000
+part_number_P765168: 0.0000
+part_number_P835244: -0.0000
+part_number_P863218: 0.0000
+part_number_P890633: -0.0000
+part_number_P895105: 0.0000
+part_number_P907453: 0.0000
+part_number_P913854: -0.0000
+part_number_P934398: -0.0000
+part_number_P956668: -0.0000
+part_number_P975273: -0.0000
+part_number_P987453: -0.0000
+part_number_P991597: -0.0000
+part_number_P994166: -0.0000

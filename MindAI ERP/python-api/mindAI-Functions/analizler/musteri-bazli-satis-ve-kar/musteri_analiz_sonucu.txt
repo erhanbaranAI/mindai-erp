@@ -1,0 +1,4 @@
+Musteri Bazli Toplam Satis ve Kar Analizi
+------------------------------------
+En fazla satis yapan musteri: ELEMERA ($15,389,821.63)
+En fazla kar getiren musteri: ELEMERA ($2,154,575.03)
